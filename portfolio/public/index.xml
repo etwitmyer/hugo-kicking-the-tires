@@ -6,8 +6,15 @@
     <description>Recent content on Emma&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2025 16:18:45 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 16:23:03 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 18 Feb 2025 16:23:03 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;University of Pennsylvania&lt;/strong&gt;, B.S.E. in Artificial Intelligence (Expected May 2026)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Minors: Mathematics and Psychology&lt;/li&gt;&#xA;&lt;li&gt;GPA: 3.85/4.00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Coding School with IBM Quantum&lt;/strong&gt; (May 2021)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Certificate in Quantum Computing, Top 1% of 7,500 students&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Agnes Irwin School&lt;/strong&gt; (June 2022)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;High School Diploma, Highest Honors, Cum Laude Society&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Leadership:&lt;/strong&gt; Team management, delegation, project management&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Python, NumPy, Pandas, Java, OCaml, HTML, CSS, R&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; PowerPoint, Excel, Google Workspace, LucidCharts, ClickUp, Snowflake&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Project Manager, Supply Chain, Pattern Inc.&lt;/strong&gt; (May 2024 - Aug 2024)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
